@@ -6,6 +6,9 @@
     "sourceMap": true,
     "declaration": false,
     "module": "es2015",
+    "types": [
+      "leaflet"
+    ],
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
